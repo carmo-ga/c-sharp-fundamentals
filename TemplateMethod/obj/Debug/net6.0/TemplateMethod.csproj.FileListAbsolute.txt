@@ -1,0 +1,15 @@
+/home/novahaus/Documentos/TemplateMethod/bin/Debug/net6.0/TemplateMethod
+/home/novahaus/Documentos/TemplateMethod/bin/Debug/net6.0/TemplateMethod.deps.json
+/home/novahaus/Documentos/TemplateMethod/bin/Debug/net6.0/TemplateMethod.runtimeconfig.json
+/home/novahaus/Documentos/TemplateMethod/bin/Debug/net6.0/TemplateMethod.dll
+/home/novahaus/Documentos/TemplateMethod/bin/Debug/net6.0/TemplateMethod.pdb
+/home/novahaus/Documentos/TemplateMethod/obj/Debug/net6.0/TemplateMethod.csproj.AssemblyReference.cache
+/home/novahaus/Documentos/TemplateMethod/obj/Debug/net6.0/TemplateMethod.GeneratedMSBuildEditorConfig.editorconfig
+/home/novahaus/Documentos/TemplateMethod/obj/Debug/net6.0/TemplateMethod.AssemblyInfoInputs.cache
+/home/novahaus/Documentos/TemplateMethod/obj/Debug/net6.0/TemplateMethod.AssemblyInfo.cs
+/home/novahaus/Documentos/TemplateMethod/obj/Debug/net6.0/TemplateMethod.csproj.CoreCompileInputs.cache
+/home/novahaus/Documentos/TemplateMethod/obj/Debug/net6.0/TemplateMethod.dll
+/home/novahaus/Documentos/TemplateMethod/obj/Debug/net6.0/refint/TemplateMethod.dll
+/home/novahaus/Documentos/TemplateMethod/obj/Debug/net6.0/TemplateMethod.pdb
+/home/novahaus/Documentos/TemplateMethod/obj/Debug/net6.0/TemplateMethod.genruntimeconfig.cache
+/home/novahaus/Documentos/TemplateMethod/obj/Debug/net6.0/ref/TemplateMethod.dll

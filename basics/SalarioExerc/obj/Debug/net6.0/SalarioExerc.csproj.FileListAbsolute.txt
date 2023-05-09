@@ -1,0 +1,15 @@
+/home/novahaus/Documentos/estudo/SalarioExerc/bin/Debug/net6.0/SalarioExerc
+/home/novahaus/Documentos/estudo/SalarioExerc/bin/Debug/net6.0/SalarioExerc.deps.json
+/home/novahaus/Documentos/estudo/SalarioExerc/bin/Debug/net6.0/SalarioExerc.runtimeconfig.json
+/home/novahaus/Documentos/estudo/SalarioExerc/bin/Debug/net6.0/SalarioExerc.dll
+/home/novahaus/Documentos/estudo/SalarioExerc/bin/Debug/net6.0/SalarioExerc.pdb
+/home/novahaus/Documentos/estudo/SalarioExerc/obj/Debug/net6.0/SalarioExerc.csproj.AssemblyReference.cache
+/home/novahaus/Documentos/estudo/SalarioExerc/obj/Debug/net6.0/SalarioExerc.GeneratedMSBuildEditorConfig.editorconfig
+/home/novahaus/Documentos/estudo/SalarioExerc/obj/Debug/net6.0/SalarioExerc.AssemblyInfoInputs.cache
+/home/novahaus/Documentos/estudo/SalarioExerc/obj/Debug/net6.0/SalarioExerc.AssemblyInfo.cs
+/home/novahaus/Documentos/estudo/SalarioExerc/obj/Debug/net6.0/SalarioExerc.csproj.CoreCompileInputs.cache
+/home/novahaus/Documentos/estudo/SalarioExerc/obj/Debug/net6.0/SalarioExerc.dll
+/home/novahaus/Documentos/estudo/SalarioExerc/obj/Debug/net6.0/refint/SalarioExerc.dll
+/home/novahaus/Documentos/estudo/SalarioExerc/obj/Debug/net6.0/SalarioExerc.pdb
+/home/novahaus/Documentos/estudo/SalarioExerc/obj/Debug/net6.0/SalarioExerc.genruntimeconfig.cache
+/home/novahaus/Documentos/estudo/SalarioExerc/obj/Debug/net6.0/ref/SalarioExerc.dll

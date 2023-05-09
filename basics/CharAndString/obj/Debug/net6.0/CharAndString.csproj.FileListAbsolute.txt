@@ -1,0 +1,15 @@
+/home/novahaus/Documentos/estudo/CharAndString/bin/Debug/net6.0/CharAndString
+/home/novahaus/Documentos/estudo/CharAndString/bin/Debug/net6.0/CharAndString.deps.json
+/home/novahaus/Documentos/estudo/CharAndString/bin/Debug/net6.0/CharAndString.runtimeconfig.json
+/home/novahaus/Documentos/estudo/CharAndString/bin/Debug/net6.0/CharAndString.dll
+/home/novahaus/Documentos/estudo/CharAndString/bin/Debug/net6.0/CharAndString.pdb
+/home/novahaus/Documentos/estudo/CharAndString/obj/Debug/net6.0/CharAndString.csproj.AssemblyReference.cache
+/home/novahaus/Documentos/estudo/CharAndString/obj/Debug/net6.0/CharAndString.GeneratedMSBuildEditorConfig.editorconfig
+/home/novahaus/Documentos/estudo/CharAndString/obj/Debug/net6.0/CharAndString.AssemblyInfoInputs.cache
+/home/novahaus/Documentos/estudo/CharAndString/obj/Debug/net6.0/CharAndString.AssemblyInfo.cs
+/home/novahaus/Documentos/estudo/CharAndString/obj/Debug/net6.0/CharAndString.csproj.CoreCompileInputs.cache
+/home/novahaus/Documentos/estudo/CharAndString/obj/Debug/net6.0/CharAndString.dll
+/home/novahaus/Documentos/estudo/CharAndString/obj/Debug/net6.0/refint/CharAndString.dll
+/home/novahaus/Documentos/estudo/CharAndString/obj/Debug/net6.0/CharAndString.pdb
+/home/novahaus/Documentos/estudo/CharAndString/obj/Debug/net6.0/CharAndString.genruntimeconfig.cache
+/home/novahaus/Documentos/estudo/CharAndString/obj/Debug/net6.0/ref/CharAndString.dll

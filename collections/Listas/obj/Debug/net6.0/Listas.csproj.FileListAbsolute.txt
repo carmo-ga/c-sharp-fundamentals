@@ -1,0 +1,15 @@
+/home/novahaus/Documentos/collections/Listas/bin/Debug/net6.0/Listas
+/home/novahaus/Documentos/collections/Listas/bin/Debug/net6.0/Listas.deps.json
+/home/novahaus/Documentos/collections/Listas/bin/Debug/net6.0/Listas.runtimeconfig.json
+/home/novahaus/Documentos/collections/Listas/bin/Debug/net6.0/Listas.dll
+/home/novahaus/Documentos/collections/Listas/bin/Debug/net6.0/Listas.pdb
+/home/novahaus/Documentos/collections/Listas/obj/Debug/net6.0/Listas.csproj.AssemblyReference.cache
+/home/novahaus/Documentos/collections/Listas/obj/Debug/net6.0/Listas.GeneratedMSBuildEditorConfig.editorconfig
+/home/novahaus/Documentos/collections/Listas/obj/Debug/net6.0/Listas.AssemblyInfoInputs.cache
+/home/novahaus/Documentos/collections/Listas/obj/Debug/net6.0/Listas.AssemblyInfo.cs
+/home/novahaus/Documentos/collections/Listas/obj/Debug/net6.0/Listas.csproj.CoreCompileInputs.cache
+/home/novahaus/Documentos/collections/Listas/obj/Debug/net6.0/Listas.dll
+/home/novahaus/Documentos/collections/Listas/obj/Debug/net6.0/refint/Listas.dll
+/home/novahaus/Documentos/collections/Listas/obj/Debug/net6.0/Listas.pdb
+/home/novahaus/Documentos/collections/Listas/obj/Debug/net6.0/Listas.genruntimeconfig.cache
+/home/novahaus/Documentos/collections/Listas/obj/Debug/net6.0/ref/Listas.dll

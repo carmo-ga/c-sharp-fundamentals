@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XcBFyuX04Bmtrs+XTEF1ElC3vuyB0o26Q0nZGJgEDfnl1mOLaStt+5+26qkAj3bu9n9rVTvVK06cYLuJjDPggg==",
+  "success": true,
+  "projectFilePath": "/home/novahaus/Documentos/alura-testes/Alura.Estacionamento/Alura.Estacionamento.csproj",
+  "expectedPackageFiles": [
+    "/home/novahaus/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.8/microsoft.aspnetcore.app.ref.6.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

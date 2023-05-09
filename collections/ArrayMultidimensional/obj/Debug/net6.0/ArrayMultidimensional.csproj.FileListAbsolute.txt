@@ -1,0 +1,15 @@
+/home/novahaus/Documentos/collections/ArrayMultidimensional/obj/Debug/net6.0/ArrayMultidimensional.csproj.AssemblyReference.cache
+/home/novahaus/Documentos/collections/ArrayMultidimensional/obj/Debug/net6.0/ArrayMultidimensional.GeneratedMSBuildEditorConfig.editorconfig
+/home/novahaus/Documentos/collections/ArrayMultidimensional/obj/Debug/net6.0/ArrayMultidimensional.AssemblyInfoInputs.cache
+/home/novahaus/Documentos/collections/ArrayMultidimensional/obj/Debug/net6.0/ArrayMultidimensional.AssemblyInfo.cs
+/home/novahaus/Documentos/collections/ArrayMultidimensional/obj/Debug/net6.0/ArrayMultidimensional.csproj.CoreCompileInputs.cache
+/home/novahaus/Documentos/collections/ArrayMultidimensional/bin/Debug/net6.0/ArrayMultidimensional
+/home/novahaus/Documentos/collections/ArrayMultidimensional/bin/Debug/net6.0/ArrayMultidimensional.deps.json
+/home/novahaus/Documentos/collections/ArrayMultidimensional/bin/Debug/net6.0/ArrayMultidimensional.runtimeconfig.json
+/home/novahaus/Documentos/collections/ArrayMultidimensional/bin/Debug/net6.0/ArrayMultidimensional.dll
+/home/novahaus/Documentos/collections/ArrayMultidimensional/bin/Debug/net6.0/ArrayMultidimensional.pdb
+/home/novahaus/Documentos/collections/ArrayMultidimensional/obj/Debug/net6.0/ArrayMultidimensional.dll
+/home/novahaus/Documentos/collections/ArrayMultidimensional/obj/Debug/net6.0/ArrayMultidimensional.pdb
+/home/novahaus/Documentos/collections/ArrayMultidimensional/obj/Debug/net6.0/ArrayMultidimensional.genruntimeconfig.cache
+/home/novahaus/Documentos/collections/ArrayMultidimensional/obj/Debug/net6.0/ref/ArrayMultidimensional.dll
+/home/novahaus/Documentos/collections/ArrayMultidimensional/bin/Debug/net6.0/ref/ArrayMultidimensional.dll

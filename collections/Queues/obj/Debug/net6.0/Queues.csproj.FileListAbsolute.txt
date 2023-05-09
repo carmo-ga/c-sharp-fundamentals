@@ -1,0 +1,15 @@
+/home/novahaus/Documentos/collections/Queues/bin/Debug/net6.0/Queues
+/home/novahaus/Documentos/collections/Queues/bin/Debug/net6.0/Queues.deps.json
+/home/novahaus/Documentos/collections/Queues/bin/Debug/net6.0/Queues.runtimeconfig.json
+/home/novahaus/Documentos/collections/Queues/bin/Debug/net6.0/Queues.dll
+/home/novahaus/Documentos/collections/Queues/bin/Debug/net6.0/Queues.pdb
+/home/novahaus/Documentos/collections/Queues/obj/Debug/net6.0/Queues.csproj.AssemblyReference.cache
+/home/novahaus/Documentos/collections/Queues/obj/Debug/net6.0/Queues.GeneratedMSBuildEditorConfig.editorconfig
+/home/novahaus/Documentos/collections/Queues/obj/Debug/net6.0/Queues.AssemblyInfoInputs.cache
+/home/novahaus/Documentos/collections/Queues/obj/Debug/net6.0/Queues.AssemblyInfo.cs
+/home/novahaus/Documentos/collections/Queues/obj/Debug/net6.0/Queues.csproj.CoreCompileInputs.cache
+/home/novahaus/Documentos/collections/Queues/obj/Debug/net6.0/Queues.dll
+/home/novahaus/Documentos/collections/Queues/obj/Debug/net6.0/refint/Queues.dll
+/home/novahaus/Documentos/collections/Queues/obj/Debug/net6.0/Queues.pdb
+/home/novahaus/Documentos/collections/Queues/obj/Debug/net6.0/Queues.genruntimeconfig.cache
+/home/novahaus/Documentos/collections/Queues/obj/Debug/net6.0/ref/Queues.dll

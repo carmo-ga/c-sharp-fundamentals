@@ -1,0 +1,15 @@
+/home/novahaus/Documentos/collections/JaggedArray/bin/Debug/net6.0/JaggedArray
+/home/novahaus/Documentos/collections/JaggedArray/bin/Debug/net6.0/JaggedArray.deps.json
+/home/novahaus/Documentos/collections/JaggedArray/bin/Debug/net6.0/JaggedArray.runtimeconfig.json
+/home/novahaus/Documentos/collections/JaggedArray/bin/Debug/net6.0/JaggedArray.dll
+/home/novahaus/Documentos/collections/JaggedArray/bin/Debug/net6.0/JaggedArray.pdb
+/home/novahaus/Documentos/collections/JaggedArray/obj/Debug/net6.0/JaggedArray.csproj.AssemblyReference.cache
+/home/novahaus/Documentos/collections/JaggedArray/obj/Debug/net6.0/JaggedArray.GeneratedMSBuildEditorConfig.editorconfig
+/home/novahaus/Documentos/collections/JaggedArray/obj/Debug/net6.0/JaggedArray.AssemblyInfoInputs.cache
+/home/novahaus/Documentos/collections/JaggedArray/obj/Debug/net6.0/JaggedArray.AssemblyInfo.cs
+/home/novahaus/Documentos/collections/JaggedArray/obj/Debug/net6.0/JaggedArray.csproj.CoreCompileInputs.cache
+/home/novahaus/Documentos/collections/JaggedArray/obj/Debug/net6.0/JaggedArray.dll
+/home/novahaus/Documentos/collections/JaggedArray/obj/Debug/net6.0/refint/JaggedArray.dll
+/home/novahaus/Documentos/collections/JaggedArray/obj/Debug/net6.0/JaggedArray.pdb
+/home/novahaus/Documentos/collections/JaggedArray/obj/Debug/net6.0/JaggedArray.genruntimeconfig.cache
+/home/novahaus/Documentos/collections/JaggedArray/obj/Debug/net6.0/ref/JaggedArray.dll

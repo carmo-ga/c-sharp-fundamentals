@@ -1,0 +1,15 @@
+/home/novahaus/Documentos/collections/SortedList/bin/Debug/net6.0/SortedList
+/home/novahaus/Documentos/collections/SortedList/bin/Debug/net6.0/SortedList.deps.json
+/home/novahaus/Documentos/collections/SortedList/bin/Debug/net6.0/SortedList.runtimeconfig.json
+/home/novahaus/Documentos/collections/SortedList/bin/Debug/net6.0/SortedList.dll
+/home/novahaus/Documentos/collections/SortedList/bin/Debug/net6.0/SortedList.pdb
+/home/novahaus/Documentos/collections/SortedList/obj/Debug/net6.0/SortedList.csproj.AssemblyReference.cache
+/home/novahaus/Documentos/collections/SortedList/obj/Debug/net6.0/SortedList.GeneratedMSBuildEditorConfig.editorconfig
+/home/novahaus/Documentos/collections/SortedList/obj/Debug/net6.0/SortedList.AssemblyInfoInputs.cache
+/home/novahaus/Documentos/collections/SortedList/obj/Debug/net6.0/SortedList.AssemblyInfo.cs
+/home/novahaus/Documentos/collections/SortedList/obj/Debug/net6.0/SortedList.csproj.CoreCompileInputs.cache
+/home/novahaus/Documentos/collections/SortedList/obj/Debug/net6.0/SortedList.dll
+/home/novahaus/Documentos/collections/SortedList/obj/Debug/net6.0/refint/SortedList.dll
+/home/novahaus/Documentos/collections/SortedList/obj/Debug/net6.0/SortedList.pdb
+/home/novahaus/Documentos/collections/SortedList/obj/Debug/net6.0/SortedList.genruntimeconfig.cache
+/home/novahaus/Documentos/collections/SortedList/obj/Debug/net6.0/ref/SortedList.dll

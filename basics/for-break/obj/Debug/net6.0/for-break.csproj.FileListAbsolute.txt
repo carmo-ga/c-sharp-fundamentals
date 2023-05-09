@@ -1,0 +1,15 @@
+/home/novahaus/Documentos/estudo/for-break/bin/Debug/net6.0/for-break
+/home/novahaus/Documentos/estudo/for-break/bin/Debug/net6.0/for-break.deps.json
+/home/novahaus/Documentos/estudo/for-break/bin/Debug/net6.0/for-break.runtimeconfig.json
+/home/novahaus/Documentos/estudo/for-break/bin/Debug/net6.0/for-break.dll
+/home/novahaus/Documentos/estudo/for-break/bin/Debug/net6.0/for-break.pdb
+/home/novahaus/Documentos/estudo/for-break/obj/Debug/net6.0/for-break.csproj.AssemblyReference.cache
+/home/novahaus/Documentos/estudo/for-break/obj/Debug/net6.0/for-break.GeneratedMSBuildEditorConfig.editorconfig
+/home/novahaus/Documentos/estudo/for-break/obj/Debug/net6.0/for-break.AssemblyInfoInputs.cache
+/home/novahaus/Documentos/estudo/for-break/obj/Debug/net6.0/for-break.AssemblyInfo.cs
+/home/novahaus/Documentos/estudo/for-break/obj/Debug/net6.0/for-break.csproj.CoreCompileInputs.cache
+/home/novahaus/Documentos/estudo/for-break/obj/Debug/net6.0/for-break.dll
+/home/novahaus/Documentos/estudo/for-break/obj/Debug/net6.0/refint/for-break.dll
+/home/novahaus/Documentos/estudo/for-break/obj/Debug/net6.0/for-break.pdb
+/home/novahaus/Documentos/estudo/for-break/obj/Debug/net6.0/for-break.genruntimeconfig.cache
+/home/novahaus/Documentos/estudo/for-break/obj/Debug/net6.0/ref/for-break.dll

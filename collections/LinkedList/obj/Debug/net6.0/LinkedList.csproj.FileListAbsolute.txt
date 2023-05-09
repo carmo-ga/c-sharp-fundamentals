@@ -1,0 +1,15 @@
+/home/novahaus/Documentos/collections/LinkedList/bin/Debug/net6.0/LinkedList
+/home/novahaus/Documentos/collections/LinkedList/bin/Debug/net6.0/LinkedList.deps.json
+/home/novahaus/Documentos/collections/LinkedList/bin/Debug/net6.0/LinkedList.runtimeconfig.json
+/home/novahaus/Documentos/collections/LinkedList/bin/Debug/net6.0/LinkedList.dll
+/home/novahaus/Documentos/collections/LinkedList/bin/Debug/net6.0/LinkedList.pdb
+/home/novahaus/Documentos/collections/LinkedList/obj/Debug/net6.0/LinkedList.csproj.AssemblyReference.cache
+/home/novahaus/Documentos/collections/LinkedList/obj/Debug/net6.0/LinkedList.GeneratedMSBuildEditorConfig.editorconfig
+/home/novahaus/Documentos/collections/LinkedList/obj/Debug/net6.0/LinkedList.AssemblyInfoInputs.cache
+/home/novahaus/Documentos/collections/LinkedList/obj/Debug/net6.0/LinkedList.AssemblyInfo.cs
+/home/novahaus/Documentos/collections/LinkedList/obj/Debug/net6.0/LinkedList.csproj.CoreCompileInputs.cache
+/home/novahaus/Documentos/collections/LinkedList/obj/Debug/net6.0/LinkedList.dll
+/home/novahaus/Documentos/collections/LinkedList/obj/Debug/net6.0/refint/LinkedList.dll
+/home/novahaus/Documentos/collections/LinkedList/obj/Debug/net6.0/LinkedList.pdb
+/home/novahaus/Documentos/collections/LinkedList/obj/Debug/net6.0/LinkedList.genruntimeconfig.cache
+/home/novahaus/Documentos/collections/LinkedList/obj/Debug/net6.0/ref/LinkedList.dll

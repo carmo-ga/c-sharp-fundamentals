@@ -1,0 +1,15 @@
+/home/novahaus/Documentos/collections/Arrays/bin/Debug/net6.0/Arrays
+/home/novahaus/Documentos/collections/Arrays/bin/Debug/net6.0/Arrays.deps.json
+/home/novahaus/Documentos/collections/Arrays/bin/Debug/net6.0/Arrays.runtimeconfig.json
+/home/novahaus/Documentos/collections/Arrays/bin/Debug/net6.0/Arrays.dll
+/home/novahaus/Documentos/collections/Arrays/bin/Debug/net6.0/Arrays.pdb
+/home/novahaus/Documentos/collections/Arrays/obj/Debug/net6.0/Arrays.csproj.AssemblyReference.cache
+/home/novahaus/Documentos/collections/Arrays/obj/Debug/net6.0/Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/home/novahaus/Documentos/collections/Arrays/obj/Debug/net6.0/Arrays.AssemblyInfoInputs.cache
+/home/novahaus/Documentos/collections/Arrays/obj/Debug/net6.0/Arrays.AssemblyInfo.cs
+/home/novahaus/Documentos/collections/Arrays/obj/Debug/net6.0/Arrays.csproj.CoreCompileInputs.cache
+/home/novahaus/Documentos/collections/Arrays/obj/Debug/net6.0/Arrays.dll
+/home/novahaus/Documentos/collections/Arrays/obj/Debug/net6.0/refint/Arrays.dll
+/home/novahaus/Documentos/collections/Arrays/obj/Debug/net6.0/Arrays.pdb
+/home/novahaus/Documentos/collections/Arrays/obj/Debug/net6.0/Arrays.genruntimeconfig.cache
+/home/novahaus/Documentos/collections/Arrays/obj/Debug/net6.0/ref/Arrays.dll

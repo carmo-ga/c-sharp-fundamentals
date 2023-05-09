@@ -1,0 +1,15 @@
+/home/novahaus/Documentos/estudo/Conditionals/bin/Debug/net6.0/Conditionals
+/home/novahaus/Documentos/estudo/Conditionals/bin/Debug/net6.0/Conditionals.deps.json
+/home/novahaus/Documentos/estudo/Conditionals/bin/Debug/net6.0/Conditionals.runtimeconfig.json
+/home/novahaus/Documentos/estudo/Conditionals/bin/Debug/net6.0/Conditionals.dll
+/home/novahaus/Documentos/estudo/Conditionals/bin/Debug/net6.0/Conditionals.pdb
+/home/novahaus/Documentos/estudo/Conditionals/obj/Debug/net6.0/Conditionals.csproj.AssemblyReference.cache
+/home/novahaus/Documentos/estudo/Conditionals/obj/Debug/net6.0/Conditionals.GeneratedMSBuildEditorConfig.editorconfig
+/home/novahaus/Documentos/estudo/Conditionals/obj/Debug/net6.0/Conditionals.AssemblyInfoInputs.cache
+/home/novahaus/Documentos/estudo/Conditionals/obj/Debug/net6.0/Conditionals.AssemblyInfo.cs
+/home/novahaus/Documentos/estudo/Conditionals/obj/Debug/net6.0/Conditionals.csproj.CoreCompileInputs.cache
+/home/novahaus/Documentos/estudo/Conditionals/obj/Debug/net6.0/Conditionals.dll
+/home/novahaus/Documentos/estudo/Conditionals/obj/Debug/net6.0/refint/Conditionals.dll
+/home/novahaus/Documentos/estudo/Conditionals/obj/Debug/net6.0/Conditionals.pdb
+/home/novahaus/Documentos/estudo/Conditionals/obj/Debug/net6.0/Conditionals.genruntimeconfig.cache
+/home/novahaus/Documentos/estudo/Conditionals/obj/Debug/net6.0/ref/Conditionals.dll

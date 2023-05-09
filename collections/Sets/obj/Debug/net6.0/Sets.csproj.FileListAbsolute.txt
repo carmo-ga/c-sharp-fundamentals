@@ -1,0 +1,15 @@
+/home/novahaus/Documentos/collections/Sets/bin/Debug/net6.0/Sets
+/home/novahaus/Documentos/collections/Sets/bin/Debug/net6.0/Sets.deps.json
+/home/novahaus/Documentos/collections/Sets/bin/Debug/net6.0/Sets.runtimeconfig.json
+/home/novahaus/Documentos/collections/Sets/bin/Debug/net6.0/Sets.dll
+/home/novahaus/Documentos/collections/Sets/bin/Debug/net6.0/Sets.pdb
+/home/novahaus/Documentos/collections/Sets/obj/Debug/net6.0/Sets.csproj.AssemblyReference.cache
+/home/novahaus/Documentos/collections/Sets/obj/Debug/net6.0/Sets.GeneratedMSBuildEditorConfig.editorconfig
+/home/novahaus/Documentos/collections/Sets/obj/Debug/net6.0/Sets.AssemblyInfoInputs.cache
+/home/novahaus/Documentos/collections/Sets/obj/Debug/net6.0/Sets.AssemblyInfo.cs
+/home/novahaus/Documentos/collections/Sets/obj/Debug/net6.0/Sets.csproj.CoreCompileInputs.cache
+/home/novahaus/Documentos/collections/Sets/obj/Debug/net6.0/Sets.dll
+/home/novahaus/Documentos/collections/Sets/obj/Debug/net6.0/refint/Sets.dll
+/home/novahaus/Documentos/collections/Sets/obj/Debug/net6.0/Sets.pdb
+/home/novahaus/Documentos/collections/Sets/obj/Debug/net6.0/Sets.genruntimeconfig.cache
+/home/novahaus/Documentos/collections/Sets/obj/Debug/net6.0/ref/Sets.dll

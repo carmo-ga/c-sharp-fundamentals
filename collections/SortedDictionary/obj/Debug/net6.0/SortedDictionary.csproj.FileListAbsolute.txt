@@ -1,0 +1,15 @@
+/home/novahaus/Documentos/collections/SortedDictionary/bin/Debug/net6.0/SortedDictionary
+/home/novahaus/Documentos/collections/SortedDictionary/bin/Debug/net6.0/SortedDictionary.deps.json
+/home/novahaus/Documentos/collections/SortedDictionary/bin/Debug/net6.0/SortedDictionary.runtimeconfig.json
+/home/novahaus/Documentos/collections/SortedDictionary/bin/Debug/net6.0/SortedDictionary.dll
+/home/novahaus/Documentos/collections/SortedDictionary/bin/Debug/net6.0/SortedDictionary.pdb
+/home/novahaus/Documentos/collections/SortedDictionary/obj/Debug/net6.0/SortedDictionary.csproj.AssemblyReference.cache
+/home/novahaus/Documentos/collections/SortedDictionary/obj/Debug/net6.0/SortedDictionary.GeneratedMSBuildEditorConfig.editorconfig
+/home/novahaus/Documentos/collections/SortedDictionary/obj/Debug/net6.0/SortedDictionary.AssemblyInfoInputs.cache
+/home/novahaus/Documentos/collections/SortedDictionary/obj/Debug/net6.0/SortedDictionary.AssemblyInfo.cs
+/home/novahaus/Documentos/collections/SortedDictionary/obj/Debug/net6.0/SortedDictionary.csproj.CoreCompileInputs.cache
+/home/novahaus/Documentos/collections/SortedDictionary/obj/Debug/net6.0/SortedDictionary.dll
+/home/novahaus/Documentos/collections/SortedDictionary/obj/Debug/net6.0/refint/SortedDictionary.dll
+/home/novahaus/Documentos/collections/SortedDictionary/obj/Debug/net6.0/SortedDictionary.pdb
+/home/novahaus/Documentos/collections/SortedDictionary/obj/Debug/net6.0/SortedDictionary.genruntimeconfig.cache
+/home/novahaus/Documentos/collections/SortedDictionary/obj/Debug/net6.0/ref/SortedDictionary.dll

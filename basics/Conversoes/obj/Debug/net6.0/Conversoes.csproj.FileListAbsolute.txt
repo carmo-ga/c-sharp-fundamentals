@@ -1,0 +1,15 @@
+/home/novahaus/Documentos/estudo/Conversoes/bin/Debug/net6.0/Conversoes
+/home/novahaus/Documentos/estudo/Conversoes/bin/Debug/net6.0/Conversoes.deps.json
+/home/novahaus/Documentos/estudo/Conversoes/bin/Debug/net6.0/Conversoes.runtimeconfig.json
+/home/novahaus/Documentos/estudo/Conversoes/bin/Debug/net6.0/Conversoes.dll
+/home/novahaus/Documentos/estudo/Conversoes/bin/Debug/net6.0/Conversoes.pdb
+/home/novahaus/Documentos/estudo/Conversoes/obj/Debug/net6.0/Conversoes.csproj.AssemblyReference.cache
+/home/novahaus/Documentos/estudo/Conversoes/obj/Debug/net6.0/Conversoes.GeneratedMSBuildEditorConfig.editorconfig
+/home/novahaus/Documentos/estudo/Conversoes/obj/Debug/net6.0/Conversoes.AssemblyInfoInputs.cache
+/home/novahaus/Documentos/estudo/Conversoes/obj/Debug/net6.0/Conversoes.AssemblyInfo.cs
+/home/novahaus/Documentos/estudo/Conversoes/obj/Debug/net6.0/Conversoes.csproj.CoreCompileInputs.cache
+/home/novahaus/Documentos/estudo/Conversoes/obj/Debug/net6.0/Conversoes.dll
+/home/novahaus/Documentos/estudo/Conversoes/obj/Debug/net6.0/refint/Conversoes.dll
+/home/novahaus/Documentos/estudo/Conversoes/obj/Debug/net6.0/Conversoes.pdb
+/home/novahaus/Documentos/estudo/Conversoes/obj/Debug/net6.0/Conversoes.genruntimeconfig.cache
+/home/novahaus/Documentos/estudo/Conversoes/obj/Debug/net6.0/ref/Conversoes.dll

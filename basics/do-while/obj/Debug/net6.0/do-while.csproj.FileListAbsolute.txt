@@ -1,0 +1,15 @@
+/home/novahaus/Documentos/estudo/do-while/bin/Debug/net6.0/do-while
+/home/novahaus/Documentos/estudo/do-while/bin/Debug/net6.0/do-while.deps.json
+/home/novahaus/Documentos/estudo/do-while/bin/Debug/net6.0/do-while.runtimeconfig.json
+/home/novahaus/Documentos/estudo/do-while/bin/Debug/net6.0/do-while.dll
+/home/novahaus/Documentos/estudo/do-while/bin/Debug/net6.0/do-while.pdb
+/home/novahaus/Documentos/estudo/do-while/obj/Debug/net6.0/do-while.csproj.AssemblyReference.cache
+/home/novahaus/Documentos/estudo/do-while/obj/Debug/net6.0/do-while.GeneratedMSBuildEditorConfig.editorconfig
+/home/novahaus/Documentos/estudo/do-while/obj/Debug/net6.0/do-while.AssemblyInfoInputs.cache
+/home/novahaus/Documentos/estudo/do-while/obj/Debug/net6.0/do-while.AssemblyInfo.cs
+/home/novahaus/Documentos/estudo/do-while/obj/Debug/net6.0/do-while.csproj.CoreCompileInputs.cache
+/home/novahaus/Documentos/estudo/do-while/obj/Debug/net6.0/do-while.dll
+/home/novahaus/Documentos/estudo/do-while/obj/Debug/net6.0/refint/do-while.dll
+/home/novahaus/Documentos/estudo/do-while/obj/Debug/net6.0/do-while.pdb
+/home/novahaus/Documentos/estudo/do-while/obj/Debug/net6.0/do-while.genruntimeconfig.cache
+/home/novahaus/Documentos/estudo/do-while/obj/Debug/net6.0/ref/do-while.dll

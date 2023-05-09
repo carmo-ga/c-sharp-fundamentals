@@ -1,0 +1,15 @@
+/home/novahaus/Documentos/estudo/VarDouble/obj/Debug/net6.0/VarDouble.csproj.AssemblyReference.cache
+/home/novahaus/Documentos/estudo/VarDouble/obj/Debug/net6.0/VarDouble.GeneratedMSBuildEditorConfig.editorconfig
+/home/novahaus/Documentos/estudo/VarDouble/obj/Debug/net6.0/VarDouble.AssemblyInfoInputs.cache
+/home/novahaus/Documentos/estudo/VarDouble/obj/Debug/net6.0/VarDouble.AssemblyInfo.cs
+/home/novahaus/Documentos/estudo/VarDouble/obj/Debug/net6.0/VarDouble.csproj.CoreCompileInputs.cache
+/home/novahaus/Documentos/estudo/VarDouble/bin/Debug/net6.0/VarDouble
+/home/novahaus/Documentos/estudo/VarDouble/bin/Debug/net6.0/VarDouble.deps.json
+/home/novahaus/Documentos/estudo/VarDouble/bin/Debug/net6.0/VarDouble.runtimeconfig.json
+/home/novahaus/Documentos/estudo/VarDouble/bin/Debug/net6.0/VarDouble.dll
+/home/novahaus/Documentos/estudo/VarDouble/bin/Debug/net6.0/VarDouble.pdb
+/home/novahaus/Documentos/estudo/VarDouble/obj/Debug/net6.0/VarDouble.dll
+/home/novahaus/Documentos/estudo/VarDouble/obj/Debug/net6.0/refint/VarDouble.dll
+/home/novahaus/Documentos/estudo/VarDouble/obj/Debug/net6.0/VarDouble.pdb
+/home/novahaus/Documentos/estudo/VarDouble/obj/Debug/net6.0/VarDouble.genruntimeconfig.cache
+/home/novahaus/Documentos/estudo/VarDouble/obj/Debug/net6.0/ref/VarDouble.dll

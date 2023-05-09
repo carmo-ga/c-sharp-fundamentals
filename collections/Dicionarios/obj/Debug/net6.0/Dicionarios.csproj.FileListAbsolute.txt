@@ -1,0 +1,15 @@
+/home/novahaus/Documentos/collections/Dicionarios/bin/Debug/net6.0/Dicionarios
+/home/novahaus/Documentos/collections/Dicionarios/bin/Debug/net6.0/Dicionarios.deps.json
+/home/novahaus/Documentos/collections/Dicionarios/bin/Debug/net6.0/Dicionarios.runtimeconfig.json
+/home/novahaus/Documentos/collections/Dicionarios/bin/Debug/net6.0/Dicionarios.dll
+/home/novahaus/Documentos/collections/Dicionarios/bin/Debug/net6.0/Dicionarios.pdb
+/home/novahaus/Documentos/collections/Dicionarios/obj/Debug/net6.0/Dicionarios.csproj.AssemblyReference.cache
+/home/novahaus/Documentos/collections/Dicionarios/obj/Debug/net6.0/Dicionarios.GeneratedMSBuildEditorConfig.editorconfig
+/home/novahaus/Documentos/collections/Dicionarios/obj/Debug/net6.0/Dicionarios.AssemblyInfoInputs.cache
+/home/novahaus/Documentos/collections/Dicionarios/obj/Debug/net6.0/Dicionarios.AssemblyInfo.cs
+/home/novahaus/Documentos/collections/Dicionarios/obj/Debug/net6.0/Dicionarios.csproj.CoreCompileInputs.cache
+/home/novahaus/Documentos/collections/Dicionarios/obj/Debug/net6.0/Dicionarios.dll
+/home/novahaus/Documentos/collections/Dicionarios/obj/Debug/net6.0/refint/Dicionarios.dll
+/home/novahaus/Documentos/collections/Dicionarios/obj/Debug/net6.0/Dicionarios.pdb
+/home/novahaus/Documentos/collections/Dicionarios/obj/Debug/net6.0/Dicionarios.genruntimeconfig.cache
+/home/novahaus/Documentos/collections/Dicionarios/obj/Debug/net6.0/ref/Dicionarios.dll

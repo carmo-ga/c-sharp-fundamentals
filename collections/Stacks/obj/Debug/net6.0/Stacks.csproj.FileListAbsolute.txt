@@ -1,0 +1,15 @@
+/home/novahaus/Documentos/collections/Stacks/bin/Debug/net6.0/Stacks
+/home/novahaus/Documentos/collections/Stacks/bin/Debug/net6.0/Stacks.deps.json
+/home/novahaus/Documentos/collections/Stacks/bin/Debug/net6.0/Stacks.runtimeconfig.json
+/home/novahaus/Documentos/collections/Stacks/bin/Debug/net6.0/Stacks.dll
+/home/novahaus/Documentos/collections/Stacks/bin/Debug/net6.0/Stacks.pdb
+/home/novahaus/Documentos/collections/Stacks/obj/Debug/net6.0/Stacks.csproj.AssemblyReference.cache
+/home/novahaus/Documentos/collections/Stacks/obj/Debug/net6.0/Stacks.GeneratedMSBuildEditorConfig.editorconfig
+/home/novahaus/Documentos/collections/Stacks/obj/Debug/net6.0/Stacks.AssemblyInfoInputs.cache
+/home/novahaus/Documentos/collections/Stacks/obj/Debug/net6.0/Stacks.AssemblyInfo.cs
+/home/novahaus/Documentos/collections/Stacks/obj/Debug/net6.0/Stacks.csproj.CoreCompileInputs.cache
+/home/novahaus/Documentos/collections/Stacks/obj/Debug/net6.0/Stacks.dll
+/home/novahaus/Documentos/collections/Stacks/obj/Debug/net6.0/refint/Stacks.dll
+/home/novahaus/Documentos/collections/Stacks/obj/Debug/net6.0/Stacks.pdb
+/home/novahaus/Documentos/collections/Stacks/obj/Debug/net6.0/Stacks.genruntimeconfig.cache
+/home/novahaus/Documentos/collections/Stacks/obj/Debug/net6.0/ref/Stacks.dll

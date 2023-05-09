@@ -1,0 +1,15 @@
+/home/novahaus/Documentos/CalculaImposto/bin/Debug/net6.0/CalculaImposto
+/home/novahaus/Documentos/CalculaImposto/bin/Debug/net6.0/CalculaImposto.deps.json
+/home/novahaus/Documentos/CalculaImposto/bin/Debug/net6.0/CalculaImposto.runtimeconfig.json
+/home/novahaus/Documentos/CalculaImposto/bin/Debug/net6.0/CalculaImposto.dll
+/home/novahaus/Documentos/CalculaImposto/bin/Debug/net6.0/CalculaImposto.pdb
+/home/novahaus/Documentos/CalculaImposto/obj/Debug/net6.0/CalculaImposto.csproj.AssemblyReference.cache
+/home/novahaus/Documentos/CalculaImposto/obj/Debug/net6.0/CalculaImposto.GeneratedMSBuildEditorConfig.editorconfig
+/home/novahaus/Documentos/CalculaImposto/obj/Debug/net6.0/CalculaImposto.AssemblyInfoInputs.cache
+/home/novahaus/Documentos/CalculaImposto/obj/Debug/net6.0/CalculaImposto.AssemblyInfo.cs
+/home/novahaus/Documentos/CalculaImposto/obj/Debug/net6.0/CalculaImposto.csproj.CoreCompileInputs.cache
+/home/novahaus/Documentos/CalculaImposto/obj/Debug/net6.0/CalculaImposto.dll
+/home/novahaus/Documentos/CalculaImposto/obj/Debug/net6.0/refint/CalculaImposto.dll
+/home/novahaus/Documentos/CalculaImposto/obj/Debug/net6.0/CalculaImposto.pdb
+/home/novahaus/Documentos/CalculaImposto/obj/Debug/net6.0/CalculaImposto.genruntimeconfig.cache
+/home/novahaus/Documentos/CalculaImposto/obj/Debug/net6.0/ref/CalculaImposto.dll
